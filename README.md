@@ -15,3 +15,9 @@ What needed to be done before analysing or pass on to an algorithm?
 
 # Reference
 - https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+- https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
+- https://github.com/rouseguy/TimeSeriesAnalysiswithPython
+- http://machinelearningmastery.com/time-series-data-visualization-with-python/
+- http://machinelearningmastery.com/basic-feature-engineering-time-series-data-python/
+- http://machinelearningmastery.com/load-explore-time-series-data-python/
+- http://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
